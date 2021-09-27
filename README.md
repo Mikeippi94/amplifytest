@@ -1,0 +1,2 @@
+# amplifytest
+testing aws 
